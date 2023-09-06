@@ -11,7 +11,7 @@ redirect_from:
 
 Currently: 
 ====== 
-* Research engineer, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2022 Winter - present
+* Research engineer, Peter DeCarlo Lab, Environmental Health &amp; Engineering @ Johns Hopkins University, 2022 Winter - present
 
 Education 
 ====== 
