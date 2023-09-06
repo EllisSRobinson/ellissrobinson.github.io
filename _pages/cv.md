@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p> -->
 
-[Download CV here](https://github.com/EllisSRobinson/ellissrobinson.github.io/files/RobinsonEllis_CV.pdf) 
+[Download CV .pdf here](https://github.com/EllisSRobinson/ellissrobinson.github.io/files/RobinsonEllis_CV.pdf) 
 
 <!-- Education -->
 <!-- ====== -->
