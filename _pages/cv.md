@@ -9,28 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p> -->
 
-[Download CV .pdf here](https://github.com/EllisSRobinson/ellissrobinson.github.io/files/RobinsonEllis_CV.pdf) 
+Education 
+====== 
+* Ph.D in Chemical Engineering, Carnegie Mellon University, 2014
+* B.S. in Chemical &amp; Biomolecular Engineering, The Ohio State University, 2009 
 
-<!-- Education -->
-<!-- ====== -->
-<!-- * B.S. in GitHub, GitHub University, 2012 -->
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!--  -->
-<!-- Work experience -->
-<!-- ====== -->
-<!-- * Summer 2015: Research Assistant -->
-<!--   * Github University -->
-<!--   * Duties included: Tagging issues -->
-<!--   * Supervisor: Professor Git -->
-<!--  -->
-<!-- * Fall 2015: Research Assistant -->
-<!--   * Github University -->
-<!--   * Duties included: Merging pull requests -->
-<!--   * Supervisor: Professor Hub -->
-<!--    -->
+Research positions &amp; experience 
+====== 
+* Summer 2015: Research Assistant 
+* Github University 
+* Duties included: Tagging issues 
+* Supervisor: Professor Git 
+
+* Fall 2015: Research Assistant 
+* Github University 
+* Duties included: Merging pull requests 
+* Supervisor: Professor Hub 
+
 <!-- Skills -->
 <!-- ====== -->
 <!-- * Skill 1 -->
