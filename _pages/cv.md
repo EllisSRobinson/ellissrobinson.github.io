@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
+
 <!-- Education -->
 <!-- ====== -->
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
