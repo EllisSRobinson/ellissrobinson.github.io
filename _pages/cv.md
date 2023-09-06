@@ -17,7 +17,7 @@ Education
 
 Research positions &amp; experience 
 ====== 
-* Summer 2015: Research Assistant 
+* 
 * Github University 
 * Duties included: Tagging issues 
 * Supervisor: Professor Git 
