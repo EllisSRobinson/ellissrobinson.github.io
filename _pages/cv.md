@@ -11,12 +11,12 @@ redirect_from:
 
 Currently
 ====== 
-* <b>Research engineer<b>, Peter DeCarlo Lab, Environmental Health &amp; Engineering, Johns Hopkins University, 2022 Winter - present
+* <b>Research engineer</b>, Peter DeCarlo Lab, Environmental Health &amp; Engineering, <i>Johns Hopkins University</i>, 2022 Winter - present
 
 Education 
 ====== 
-* Ph.D in Chemical Engineering, <i>Carnegie Mellon University<i>, 2014 Fall
-* B.S. in Chemical &amp; Biomolecular Engineering, <i>The Ohio State University<i>, 2009 Fall
+* Ph.D in Chemical Engineering, <i>Carnegie Mellon University</i>, 2014 Fall
+* B.S. in Chemical &amp; Biomolecular Engineering, <i>The Ohio State University</i>, 2009 Fall
 
 Research positions &amp; experience 
 ====== 
