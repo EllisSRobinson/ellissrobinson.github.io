@@ -12,20 +12,22 @@ redirect_from:
 
 Education 
 ====== 
-* Ph.D in Chemical Engineering, Carnegie Mellon University, 2014
-* B.S. in Chemical &amp; Biomolecular Engineering, The Ohio State University, 2009 
+* Ph.D in Chemical Engineering, Carnegie Mellon University, 2014 Fall
+* B.S. in Chemical &amp; Biomolecular Engineering, The Ohio State University, 2009 Fall
 
 Research positions &amp; experience 
 ====== 
-* 
-* Github University 
-* Duties included: Tagging issues 
-* Supervisor: Professor Git 
+* Research engineer, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2022 Winter - present
+* Postdoctoral researcher, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2020 Summer - 2022 Winter
+* Postdoctoral researcher, CAPS Lab, Mechanical Engineering &commat Carnegie Mellon University, 2016 Summer - 2019 Spring
+* Research scientist I, NOAA Earth System Research Laboratory, 2015 Winter - 2016 Summer
+* Undergraduate REU, Amgen Scholars Program, Bioengineering &commat University of Washington, 2008 Summer
+* Undergraduate REU, RISE program, Chemical Engineering &commat University of California Santa Barbara, 2007 Summer
+* Undergraduate research assistant, Chemical &amp; Biomolecular Engineering &commat The Ohio State University, 2007 Summer
 
-* Fall 2015: Research Assistant 
-* Github University 
-* Duties included: Merging pull requests 
-* Supervisor: Professor Hub 
+Non-research work positions &amp; experience 
+====== 
+* Research communications manager (focus: Energy, Environment, Climate), College of Engineering &commat Carnegie Mellon University, 2019 Spring - 2020 Spring
 
 <!-- Skills -->
 <!-- ====== -->
