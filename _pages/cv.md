@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Currently: 
+====== 
+* Research engineer, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2022 Winter - present
 
 Education 
 ====== 
@@ -17,7 +20,7 @@ Education
 
 Research positions &amp; experience 
 ====== 
-* Research engineer, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2022 Winter - present
+<!--* Research engineer, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2022 Winter - present-->
 * Postdoctoral researcher, Peter DeCarlo Lab, Environmental Health &amp; Engineering &commat Johns Hopkins University, 2020 Summer - 2022 Winter
 * Postdoctoral researcher, CAPS Lab, Mechanical Engineering &commat Carnegie Mellon University, 2016 Summer - 2019 Spring
 * Research scientist I, NOAA Earth System Research Laboratory, 2015 Winter - 2016 Summer
