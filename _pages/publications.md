@@ -7,6 +7,10 @@ author_profile: true
 
 <!-- 2016 -->
 
+[9] Ye, Q.; **Robinson, E.S.**; Ding, X.; Ye, P.; Sullivan, R.C.; Donahue, N.M.; (2016). Mixing of secondary organic aerosols versus relative humidity. *<u>Proc. Natl. Acad. Sci. USA</u>*, 113, 45, 12649-12654. [[DOI](https://doi.org/10.1073/pnas.1604536113)]
+
+[8] Ye, P.; Ding, X.; Hakala, J.; Hofbauer, V.; **Robinson, E.S.**; Donahue, N.M.; (2016). Vapor wall loss of semi-volatile organic compounds in a Teflon chamber. *<u>Aerosol Sci. and Tech.</u>*, 189, 31-49. [[DOI](https://doi.org/10.1080/02786826.2016.1195905)]
+
 [7] **Robinson, E.S.**; Donahue, N.M.; Ahern, A.T.; Ye, Q.; Lipsky, E. (2016). Single-particle measurements of phase partitioning between primary and secondary organic aerosols. *<u>Faraday Disc.</u>*, 189, 31-49 . [[DOI](https://doi.org/10.1039/C5FD00214A)]
 
 <!-- 2015 -->
