@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<!-- 2015 -->
+
+
+
+
+[5] Ye, P.; Ding, X.; Ye, Q.;  **Robinson, E.S.**; Donahue, N.M.; (2015). Uptake of semivolatile secondary organic aerosol formed from a-pinene into nonvolatile polyethylene glycol probe particles. *<u>J. Phys. Chem. A</u>*, 120, 9, 1459–1467. [[DOI](https://doi.org/10.1021/acs.jpca.5b07435)]
+
+
 [4] Riva, M.; **Robinson, E.S.**; Perraudin, E.; Donahue, N.M.; Villenave, E. (2015). Photochemical aging of secondary organic aerosols generated from the photooxidation of polycyclic aromatic hydrocarbons in the gas-phase. *<u>Env. Sci. Tech.</u>*, 49, 9, 5407–5416. [[DOI](https://doi.org/10.1021/acs.est.5b00442)]
 
 <!-- 2014 -->
