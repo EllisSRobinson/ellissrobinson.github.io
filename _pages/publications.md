@@ -6,11 +6,21 @@ author_profile: true
 ---
 
 <!-- 2023 -->
+
 [xx] **Robinson, E.S.**; Cesler-Maloney, M; Tan, X.; Mao, J.; Simpson, W.; DeCarlo, P.F.; (2023). Wintertime spatial patterns of particulate matter in Fairbanks, AK during ALPACA 2022. *<u>Env. Sci. Atmos.</u>*, 3, 568-580. [[DOI](https://doi.org/10.1039/D2EA00140C)]
 
 <!-- 2022 -->
+
+[xx] Campbell, J.R; Battaglia Jr., M.; Dingilian, K.; ...  **Robinson, E.S.**; ... Mao, J.; (2022). Source and Chemistry of Hydroxymethanesulfonate (HMS) in Fairbanks, Alaska. *<u>Env. Sci. Tech..</u>*, 56, 12, 7657–7667. [[DOI](https://doi.org/10.1021/acs.est.2c00410)]
+
 <!-- 2021 -->
+
+[xx] Janssen, R.H.H; Heald, C.H.; Steiner, A.L.; ... **Robinson, E.S.**; ... Ziemba, L.D.; (2021). Drivers of the fungal spore bioaerosol budget: observational analysis and global modeling. *<u>Atmos. Chem. Phys.</u>*, 21, 4381–4401. [[DOI](https://doi.org/10.5194/acp-21-4381-2021)]
+
+
 <!-- 2020 -->
+
+
 <!-- 2019 -->
 <!-- 2018 -->
 
@@ -25,11 +35,11 @@ author_profile: true
 
 <!-- 2016 -->
 
-[10] Saleh, R.; **Robinson, E.S.**; Ahern, A.T.; Donahue, N.M.; (2016). Evaporation rate of particles in the vaporizer of the Aerodyne aerosol mass spectrometer. *<u>Aerosol Sci. and Tech.</u>*, 51:4, 501-508. [[DOI](https://doi.org/10.1080/02786826.2016.1271109)]
+[10] Saleh, R.; **Robinson, E.S.**; Ahern, A.T.; Donahue, N.M.; (2016). Evaporation rate of particles in the vaporizer of the Aerodyne aerosol mass spectrometer. *<u>Aerosol Sci. Tech.</u>*, 51:4, 501-508. [[DOI](https://doi.org/10.1080/02786826.2016.1271109)]
 
 [9] Ye, Q.; **Robinson, E.S.**; Ding, X.; Ye, P.; Sullivan, R.C.; Donahue, N.M.; (2016). Mixing of secondary organic aerosols versus relative humidity. *<u>Proc. Natl. Acad. Sci. USA</u>*, 113, 45, 12649-12654. [[DOI](https://doi.org/10.1073/pnas.1604536113)]
 
-[8] Ye, P.; Ding, X.; Hakala, J.; Hofbauer, V.; **Robinson, E.S.**; Donahue, N.M.; (2016). Vapor wall loss of semi-volatile organic compounds in a Teflon chamber. *<u>Aerosol Sci. and Tech.</u>*, 189, 31-49. [[DOI](https://doi.org/10.1080/02786826.2016.1195905)]
+[8] Ye, P.; Ding, X.; Hakala, J.; Hofbauer, V.; **Robinson, E.S.**; Donahue, N.M.; (2016). Vapor wall loss of semi-volatile organic compounds in a Teflon chamber. *<u>Aerosol Sci. Tech.</u>*, 189, 31-49. [[DOI](https://doi.org/10.1080/02786826.2016.1195905)]
 
 [7] **Robinson, E.S.**; Donahue, N.M.; Ahern, A.T.; Ye, Q.; Lipsky, E. (2016). Single-particle measurements of phase partitioning between primary and secondary organic aerosols. *<u>Faraday Disc.</u>*, 189, 31-49 . [[DOI](https://doi.org/10.1039/C5FD00214A)]
 
