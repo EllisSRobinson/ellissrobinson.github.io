@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[3] Saleh, R., **Robinson, E.S.**, Tkacik, D. et al. Brownness of organics in aerosols from biomass burning linked to their black carbon content. *<u>Nature Geosci.</u>*,  7, 647–650. [[DOI](https://doi.org/10.1038/ngeo2220)]
+
 
 [2] **Robinson, E. S.**; Saleh, R.; Donahue, N.M. Organic Aerosol Mixing Observed by Single-Particle Mass Spectrometry. *<u>J. Phys. Chem. A</u>*, 2013, 117, 51, 13935–13945. [[DOI](https://doi.org/10.1021/jp405789t)]
 
