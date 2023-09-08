@@ -5,21 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- 2016 -->
+
+[7] **Robinson, E.S.**; Donahue, N.M.; Ahern, A.T.; Ye, Q.; Lipsky, E. (2016). Single-particle measurements of phase partitioning between primary and secondary organic aerosols. *<u>Faraday Disc.</u>*, 189, 31-49 . [[DOI](https://doi.org/10.1039/C5FD00214A)]
 
 <!-- 2015 -->
 
-
-
+[6] **Robinson, E.S.**; ;Donahue, N.M.; (2015). Uptake of semivolatile secondary organic aerosol formed from a-pinene into nonvolatile polyethylene glycol probe particles. *<u>Env. Sci. Tech.</u>*, 49, 16, 9724–9732. [[DOI](https://doi.org/10.1021/acs.est.5b01692)]
 
 [5] Ye, P.; Ding, X.; Ye, Q.;  **Robinson, E.S.**; Donahue, N.M.; (2015). Uptake of semivolatile secondary organic aerosol formed from a-pinene into nonvolatile polyethylene glycol probe particles. *<u>J. Phys. Chem. A</u>*, 120, 9, 1459–1467. [[DOI](https://doi.org/10.1021/acs.jpca.5b07435)]
-
 
 [4] Riva, M.; **Robinson, E.S.**; Perraudin, E.; Donahue, N.M.; Villenave, E. (2015). Photochemical aging of secondary organic aerosols generated from the photooxidation of polycyclic aromatic hydrocarbons in the gas-phase. *<u>Env. Sci. Tech.</u>*, 49, 9, 5407–5416. [[DOI](https://doi.org/10.1021/acs.est.5b00442)]
 
 <!-- 2014 -->
 
 [3] Saleh, R., **Robinson, E.S.**, Tkacik, D.; ... Robinson, A.L. (2014). Brownness of organics in aerosols from biomass burning linked to their black carbon content. *<u>Nature Geosci.</u>*, 7, 647–650. [[DOI](https://doi.org/10.1038/ngeo2220)]
-
 
 <!-- 2013 -->
 
