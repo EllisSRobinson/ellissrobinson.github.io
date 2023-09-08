@@ -5,24 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- %######2017########### -->
-<!-- \href{https://www.atmos-meas-tech.net/10/1755/2017/amt-10-1755-2017.html} -->
-<!-- {\textbf{ES~Robinson}, RS~Gao, JP~Schwarz, DW~Fahey, AE~Perring, -->
-<!-- ``Fluorescence calibration method for single-particle aerosol fluorescence instruments,'' -->
-<!-- \textit{Atmospheric Measurement Techniques}, -->
-<!-- \DatestampYM{2017}{05}.} -->
-<!-- \Gap -->
-<!--  -->
-<!-- \Gap -->
-<!-- \href{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016JD025784} -->
-<!-- {DS Tkacik, \textbf{ES~Robinson}, AT~Ahern, R~Saleh, C~Stockwell, P~Veres,  IJ~Simpson, S~Meinardi, DR~Blake, RJ~Yokelson, AA~Presto, RC~Sullivan, NM~Donahue, AL~Robinson, -->
-<!-- ``A dual-chamber method for quantifying the effects of atmospheric perturbations on secondary organic aerosol formation from biomass burning emissions,'' -->
-<!-- \textit{Journal of Geophysical Research: Atmospheres}, -->
-<!-- \DatestampYM{2017}{03}.} -->
-<!-- \smallskip -->
+<!-- 2023 -->
+[xx] **Robinson, E.S.**; Cesler-Maloney, M; Tan, X.; Mao, J.; Simpson, W.; DeCarlo, P.F.; (2023). Wintertime spatial patterns of particulate matter in Fairbanks, AK during ALPACA 2022. *<u>Env. Sci. Atmos.</u>*, 3, 568-580. [[DOI](https://doi.org/10.1039/D2EA00140C)]
+
+<!-- 2022 -->
+<!-- 2021 -->
+<!-- 2020 -->
+<!-- 2019 -->
+<!-- 2018 -->
 
 
 <!-- 2017 -->
+
+[13] **Robinson, E.S.**; Gao, R.S.; Schwarz, J.P.; Fahey, D.W.; Perring, A.E.; (2017). Fluorescence calibration method for single-particle aerosol fluorescence instruments. *<u>Atmos. Meas. Tech.</u>*, 10, 1755–1768. [[DOI](https://doi.org/10.5194/amt-10-1755-2017)]
+
+[12] Tkacik, D.; **Robinson, E.S.**; Ahern, A.T.; ...Robinson, A.L.; (2017). A dual-chamber method for quantifying the effects of atmospheric perturbations on secondary organic aerosol formation from biomass burning emissions. *<u>J. Geophys. Res. Atmos.</u>*, 22, 6043–6058. [[DOI](https://doi.org/10.1002/2016JD025784)]
 
 [11] **Robinson, E.S.**; Onasch, T.B..; Worsnop, D.; Donahue, N.M.; (2017). Collection efficiency of a-pinene secondary organic aerosol particles explored via light-scattering single-particle aerosol mass spectrometry. *<u>Atmos. Meas. Tech.</u>*, 10, 1139–1154. [[DOI](https://doi.org/10.5194/amt-10-1139-2017)]
 
