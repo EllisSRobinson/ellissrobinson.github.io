@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-[1] Nie, W.; Yan, C.; Yang, L.; Roldin, P.; Liu, Y.; Vogel, A. L.; ... **Robinson, E.S.**; ... Ding, A. (2023). Testing testing title. *<u>Environmental Sciences: Atmospheres</u>*, 14, 3347. [[DOI](https://doi.org/10.1038/s41467-023-39066-4)]
-
+[1] Saleh, R.; Hennigan, C.J.; McMeeking, G. R.; Chuang, W. K.; **Robinson, E. S.**; Coe, H.; Donahue, N.M.; Robinson, A.L. (2013). Absorptivity of brown carbon in fresh and photo-chemically aged biomass-burning emissions. *<u>Atmos. Chem. Phys.</u>*, 13, 7683–7693. [[DOI](https://doi.org/10.5194/acp-13-7683-2013)]
 
 <!-- {% if author.googlescholar %} -->
 <!--   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> -->
