@@ -5,6 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- %######2017########### -->
+<!-- \href{https://www.atmos-meas-tech.net/10/1755/2017/amt-10-1755-2017.html} -->
+<!-- {\textbf{ES~Robinson}, RS~Gao, JP~Schwarz, DW~Fahey, AE~Perring, -->
+<!-- ``Fluorescence calibration method for single-particle aerosol fluorescence instruments,'' -->
+<!-- \textit{Atmospheric Measurement Techniques}, -->
+<!-- \DatestampYM{2017}{05}.} -->
+<!-- \Gap -->
+<!--  -->
+<!-- \Gap -->
+<!-- \href{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016JD025784} -->
+<!-- {DS Tkacik, \textbf{ES~Robinson}, AT~Ahern, R~Saleh, C~Stockwell, P~Veres,  IJ~Simpson, S~Meinardi, DR~Blake, RJ~Yokelson, AA~Presto, RC~Sullivan, NM~Donahue, AL~Robinson, -->
+<!-- ``A dual-chamber method for quantifying the effects of atmospheric perturbations on secondary organic aerosol formation from biomass burning emissions,'' -->
+<!-- \textit{Journal of Geophysical Research: Atmospheres}, -->
+<!-- \DatestampYM{2017}{03}.} -->
+<!-- \smallskip -->
+
+
+<!-- 2017 -->
+
+[11] **Robinson, E.S.**; Onasch, T.B..; Worsnop, D.; Donahue, N.M.; (2017). Collection efficiency of a-pinene secondary organic aerosol particles explored via light-scattering single-particle aerosol mass spectrometry. *<u>Atmos. Meas. Tech.</u>*, 10, 1139–1154. [[DOI](https://doi.org/10.5194/amt-10-1139-2017)]
+
 <!-- 2016 -->
 
 [10] Saleh, R.; **Robinson, E.S.**; Ahern, A.T.; Donahue, N.M.; (2016). Evaporation rate of particles in the vaporizer of the Aerodyne aerosol mass spectrometer. *<u>Aerosol Sci. and Tech.</u>*, 51:4, 501-508. [[DOI](https://doi.org/10.1080/02786826.2016.1271109)]
