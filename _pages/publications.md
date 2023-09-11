@@ -38,6 +38,66 @@ author_profile: true
 <!-- 2018 -->
 <center><b>2018</b></center>
 
+[xx] Shah, R.U.; **Robinson, E.S.**; Gu, P.; Robinson, A.L.; Apte, J.S.; Presto, A.A.; (2018). High-spatial-resolution mapping and source apportionment of aerosol composition in Oakland, California, using mobile aerosol mass spectrometry. *<u>Atmos. Chem. Phys.</u>*, 218, 16325–16344. [[DOI](https://doi.org/10.5194/acp-18-16325-2018)]
+
+
+[xx] Gu, P.; Li, H.Z.; Ye, Q.; **Robinson, E.S.**; ... Presto, A.A.; (2018). Intra-city variability of PM exposure is driven by carbonaceous sources and correlated with land use variables. *<u>Env. Sci. Tech.</u>*, 52, 20, 11545–11554. [[DOI](https://doi.org/10.1021/acs.est.8b03833)]
+
+[xx] **Robinson, E.S.**; Gu, P.; Ye, Q.; Li, H.Z.; Shah, R.U.; Apte, J.S.; Robinson, A.L.; Presto, A.A.; (2018). Restaurant Impacts on Outdoor Air Quality: Elevated Organic Aerosol Mass from Restaurant Cooking with Neighborhood-Scale Plume Extents. *<u>Env. Sci. Tech.</u>*, 52, 16, 9285–9294. [[DOI](https://doi.org/10.1021/acs.est.8b02654)]
+
+
+
+
+<!-- %####2018##### -->
+<!--  -->
+<!-- \Gap -->
+<!-- \href{https://pubs.acs.org/doi/abs/10.1021/acs.est.8b00910} -->
+<!-- {PK~Saha, \textbf{ES~Robinson}, RU~Shah, N~Zimmerman, JS~Apte, AL~Robinson, AA~Presto, -->
+<!-- ``Reduced Ultrafine Particle Concentration in Urban Air: Changes in Nucleation and Anthropogenic Emissions,'' -->
+<!-- \textit{Environmental Science \& Technology}, -->
+<!-- \DatestampYM{2018}{05}.} -->
+<!-- \smallskip -->
+<!--  -->
+<!--  -->
+<!-- \Gap -->
+<!--  -->
+<!-- \href{https://pubs.acs.org/doi/abs/10.1021/acs.est.8b01011} -->
+<!-- {Q~Ye, P~Gu, HZ~Li, \textbf{ES~Robinson}, E~Lipsky, C~Kaltsonoudis, AKY~Lee, JS~Apte, AL~Robinson, RC~Sullivan, AA~Presto, NM~Donahue, -->
+<!-- ``Spatial Variability of Sources and Mixing State of Atmospheric Particles in a Metropolitan Area,'' -->
+<!-- \textit{Environmental Science \& Technology}, -->
+<!-- %DOI: https://doi.org/10.1021/acs.est.8b01011 -->
+<!-- \DatestampYM{2018}{05}.} -->
+<!-- \smallskip -->
+<!--  -->
+<!--  -->
+<!-- \href{https://www.tandfonline.com/doi/abs/10.1080/02786826.2017.1413488} -->
+<!-- {A~Sinha, R~Saleh, \textbf{ES~Robinson}, AT~Ahern, DS~Tkacik, AA~Presto, RC~Sullivan, AL~Robinson, NM~Donahue, -->
+<!-- ``Mass accommodation coefficients of fresh and aged biomass-burning emissions,'' -->
+<!-- \textit{Aerosol Science and Technology}, -->
+<!-- %DOI: https://doi.org/10.1080/02786826.2017.1413488 -->
+<!-- \DatestampYM{2018}{03}.} -->
+<!-- \smallskip -->
+<!-- \Gap -->
+<!--  -->
+<!--  -->
+<!-- \href{https://www.sciencedirect.com/science/article/pii/S2451929417305107} -->
+<!-- {Q~Ye, MA~Upshur \textbf{ES~Robinson}, F~Geiger, RC~Sullivan, R~Thomson, NM~Donahue, -->
+<!-- ``Following particle-particle mixing in atmospheric secondary organic aerosols by using isotopically labeled terpenes,'' -->
+<!-- \textit{Chem}, -->
+<!-- %DOI: https://doi.org/10.1016/j.chempr.2017.12.008 -->
+<!-- \DatestampYM{2018}{02}.} -->
+<!-- \smallskip -->
+<!-- \Gap -->
+<!--  -->
+<!--  -->
+<!-- \href{https://amt.copernicus.org/articles/11/291/2018/} -->
+<!-- {N~Zimmerman, AA~Presto, SPN~Kumar, J~Gu, A~Hauriliuk, \textbf{ES~Robinson}, AL~Robinson, R~Subramanian, -->
+<!-- ``A machine learning calibration model using random forests to improve sensor performance for lower-cost air quality monitoring,'' -->
+<!-- \textit{Atmospheric Measurement Techniques}, -->
+<!-- %DOI: https://doi.org/10.5194/amt-11-291-2018, -->
+<!-- \DatestampYM{2018}{01}.} -->
+<!-- \smallskip -->
+<!-- \Gap -->
 
 <!-- 2017 -->
 <center><b>2017</b></center>
