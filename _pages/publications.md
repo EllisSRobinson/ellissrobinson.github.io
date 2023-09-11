@@ -9,31 +9,39 @@ author_profile: true
 Page in progress...
 <center><b>2023</b></center>
 
-[xx] **Robinson, E.S.**; Cesler-Maloney, M; Tan, X.; Mao, J.; Simpson, W.; DeCarlo, P.F.; (2023). Wintertime spatial patterns of particulate matter in Fairbanks, AK during ALPACA 2022. *<u>Env. Sci. Atmos.</u>*, 3, 568-580. [[DOI](https://doi.org/10.1039/D2EA00140C)]
+[31] **Robinson, E.S.**; Cesler-Maloney, M; Tan, X.; Mao, J.; Simpson, W.; DeCarlo, P.F.; (2023). Wintertime spatial patterns of particulate matter in Fairbanks, AK during ALPACA 2022. *<u>Env. Sci. Atmos.</u>*, 3, 568-580. [[DOI](https://doi.org/10.1039/D2EA00140C)]
 
 <!-- 2022 -->
 <center><b>2022</b></center>
 
-[xx] Campbell, J.R; Battaglia Jr., M.; Dingilian, K.; ...  **Robinson, E.S.**; ... Mao, J.; (2022). Source and Chemistry of Hydroxymethanesulfonate (HMS) in Fairbanks, Alaska. *<u>Env. Sci. Tech.</u>*, 56, 12, 7657–7667. [[DOI](https://doi.org/10.1021/acs.est.2c00410)]
+[30] Campbell, J.R; Battaglia Jr., M.; Dingilian, K.; ...  **Robinson, E.S.**; ... Mao, J.; (2022). Source and Chemistry of Hydroxymethanesulfonate (HMS) in Fairbanks, Alaska. *<u>Env. Sci. Tech.</u>*, 56, 12, 7657–7667. [[DOI](https://doi.org/10.1021/acs.est.2c00410)]
 
 <!-- 2021 -->
 <center><b>2021</b></center>
 
-[xx] Janssen, R.H.H; Heald, C.H.; Steiner, A.L.; ... **Robinson, E.S.**; ... Ziemba, L.D.; (2021). Drivers of the fungal spore bioaerosol budget: observational analysis and global modeling. *<u>Atmos. Chem. Phys.</u>*, 21, 4381–4401. [[DOI](https://doi.org/10.5194/acp-21-4381-2021)]
+[29] Janssen, R.H.H; Heald, C.H.; Steiner, A.L.; ... **Robinson, E.S.**; ... Ziemba, L.D.; (2021). Drivers of the fungal spore bioaerosol budget: observational analysis and global modeling. *<u>Atmos. Chem. Phys.</u>*, 21, 4381–4401. [[DOI](https://doi.org/10.5194/acp-21-4381-2021)]
 
 
 <!-- 2020 -->
 <center><b>2020</b></center>
 
-[xx] Shah, R.U.; **Robinson, E.S.**; Gu, P.; Apte, J.S.; Robinson, A.L.; Presto, A.A.; (2020). Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic. *<u>Env. Res. Lett.</u>*, 15, 114039. [[DOI](https://doi.org/10.1088/1748-9326/abbc92)]
+[28] Shah, R.U.; **Robinson, E.S.**; Gu, P.; Apte, J.S.; Robinson, A.L.; Presto, A.A.; (2020). Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic. *<u>Env. Res. Lett.</u>*, 15, 114039. [[DOI](https://doi.org/10.1088/1748-9326/abbc92)]
 
-[xx] Zimmerman, N.; Li, H.Z.; Ellis, A.; ... **Robinson, E.S.**; ... Presto, A.A.; (2020). Improving Correlations between Land Use and Air Pollutant Concentrations Using Wavelet Analysis: Insights from a Low-cost Sensor Network. *<u>Aerosol and Air Quality Res.</u>*, 20, 314–328. [[DOI](https://doi.org/10.4209/aaqr.2019.03.0124)]
+[27] Zimmerman, N.; Li, H.Z.; Ellis, A.; ... **Robinson, E.S.**; ... Presto, A.A.; (2020). Improving Correlations between Land Use and Air Pollutant Concentrations Using Wavelet Analysis: Insights from a Low-cost Sensor Network. *<u>Aerosol and Air Quality Res.</u>*, 20, 314–328. [[DOI](https://doi.org/10.4209/aaqr.2019.03.0124)]
 
-[xx] Ye, Q.; Li, H.Z.; Gu, P.; **Robinson, E.S.**; ... Presto, A.A.; (2020). Moving beyond fine particle mass: high-spatial resolution exposure to source-resolved atmospheric particle number and chemical mixing state. *<u>Env. Health Pers.</u>*, 128, 1, CID: 017009. [[DOI](https://doi.org/10.1289/EHP5311)]
+[26] Ye, Q.; Li, H.Z.; Gu, P.; **Robinson, E.S.**; ... Presto, A.A.; (2020). Moving beyond fine particle mass: high-spatial resolution exposure to source-resolved atmospheric particle number and chemical mixing state. *<u>Env. Health Pers.</u>*, 128, 1, CID: 017009. [[DOI](https://doi.org/10.1289/EHP5311)]
 
 
 <!-- 2019 -->
 <center><b>2019</b></center>
+
+[25] Duflot, V.; Tuet, P.; Flores, O.; ... **Robinson, E.S.**; ... Elizondo, P.; (2019). Preliminary results from the FARCE 2015 campaign: multidisciplinary study of the forest–gas–aerosol–cloud system on the tropical island of La Réunion. *<u>Atmos. Chem. Phys.</u>*, 19, 10591-10618. [[DOI](https://doi.org/10.1021/acs.est.9b01897)]
+
+[24] **Robinson, E.S.**; Shah, R.U.; Messier, K.; ... Preso, A.A.; (2019). Land-use regression modeling of source-specific fine particulate components in an urban environment. *<u>Env. Sci. Tech.</u>*, 53, 15, 8925–8937. [[DOI](https://doi.org/10.1021/acs.est.9b01897)]
+
+[23] Li, H.Z.; Gu, P.; Ye, Q.;... **Robinson, E.S.**; ... Preso, A.A.; (2019). Spatially dense air pollutant sampling: Implications of spatial variability on the representativeness of stationary air pollutant monitors. *<u>Atmos. Env.: X</u>*, 2, 100012. [[DOI](https://doi.org/10.1016/j.aeaoa.2019.100012)]
+
+[22] Ahern, A.T.; **Robinson, E.S.**; Tkacik, D.S.; ... Donahue, N.M.; (2019). Production of secondary organic aerosol during aging of biomass-burning smoke from fresh fuels and its relationship to VOC precursors. *<u>J. Geophys. Res. Atmos.</u>*, 24, 3583–3606. [[DOI](https://doi.org/10.1002/2016JD025784)]
 
 
 <!-- 2018 -->
