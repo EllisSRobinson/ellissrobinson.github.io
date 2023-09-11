@@ -24,6 +24,12 @@ author_profile: true
 <!-- 2020 -->
 <center><b>2020</b></center>
 
+[xx] Shah, R.U.; **Robinson, E.S.**; Gu, P.; Apte, J.S.; Robinson, A.L.; Presto, A.A.; (2020). Socio-economic disparities in exposure to urban restaurant emissions are larger than for traffic. *<u>Env. Res. Lett.</u>*, 15, 114039. [[DOI](https://doi.org/10.1088/1748-9326/abbc92)]
+
+[xx] Zimmerman, N.; Li, H.Z.; Ellis, A.; ... **Robinson, E.S.**; ... Presto, A.A.; (2020). Improving Correlations between Land Use and Air Pollutant Concentrations Using Wavelet Analysis: Insights from a Low-cost Sensor Network. *<u>Aerosol and Air Quality Res.</u>*, 20, 314–328. [[DOI](https://doi.org/10.4209/aaqr.2019.03.0124)]
+
+[xx] Ye, Q.; Li, H.Z.; Gu, P.; **Robinson, E.S.**; ... Presto, A.A.; (2020). Moving beyond fine particle mass: high-spatial resolution exposure to source-resolved atmospheric particle number and chemical mixing state. *<u>Env. Health Pers.</u>*, 128, 1, CID: 017009. [[DOI](https://doi.org/10.1289/EHP5311)]
+
 
 <!-- 2019 -->
 <center><b>2019</b></center>
