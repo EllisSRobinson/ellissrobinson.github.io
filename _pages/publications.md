@@ -11,6 +11,8 @@ author_profile: true
 
 <!-- 2022 -->
 
+<b><center>2022</b></center>
+
 [xx] Campbell, J.R; Battaglia Jr., M.; Dingilian, K.; ...  **Robinson, E.S.**; ... Mao, J.; (2022). Source and Chemistry of Hydroxymethanesulfonate (HMS) in Fairbanks, Alaska. *<u>Env. Sci. Tech.</u>*, 56, 12, 7657–7667. [[DOI](https://doi.org/10.1021/acs.est.2c00410)]
 
 <!-- 2021 -->
