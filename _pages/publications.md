@@ -6,35 +6,35 @@ author_profile: true
 ---
 
 <!-- 2023 -->
-**<center>2023**</center>
+<center>**2023**</center>
 
 [xx] **Robinson, E.S.**; Cesler-Maloney, M; Tan, X.; Mao, J.; Simpson, W.; DeCarlo, P.F.; (2023). Wintertime spatial patterns of particulate matter in Fairbanks, AK during ALPACA 2022. *<u>Env. Sci. Atmos.</u>*, 3, 568-580. [[DOI](https://doi.org/10.1039/D2EA00140C)]
 
 <!-- 2022 -->
-**<center>2022**</center>
+<center>**2022**</center>
 
 [xx] Campbell, J.R; Battaglia Jr., M.; Dingilian, K.; ...  **Robinson, E.S.**; ... Mao, J.; (2022). Source and Chemistry of Hydroxymethanesulfonate (HMS) in Fairbanks, Alaska. *<u>Env. Sci. Tech.</u>*, 56, 12, 7657–7667. [[DOI](https://doi.org/10.1021/acs.est.2c00410)]
 
 <!-- 2021 -->
-**<center>2021**</center>
+<center>**2021**</center>
 
 [xx] Janssen, R.H.H; Heald, C.H.; Steiner, A.L.; ... **Robinson, E.S.**; ... Ziemba, L.D.; (2021). Drivers of the fungal spore bioaerosol budget: observational analysis and global modeling. *<u>Atmos. Chem. Phys.</u>*, 21, 4381–4401. [[DOI](https://doi.org/10.5194/acp-21-4381-2021)]
 
 
 <!-- 2020 -->
-**<center>2020**</center>
+<center>**2020**</center>
 
 
 <!-- 2019 -->
-**<center>2019**</center>
+<center>**2019**</center>
 
 
 <!-- 2018 -->
-**<center>2018**</center>
+<center>**2018**</center>
 
 
 <!-- 2017 -->
-**<center>2017**</center>
+<center>**2017**</center>
 
 [13] **Robinson, E.S.**; Gao, R.S.; Schwarz, J.P.; Fahey, D.W.; Perring, A.E.; (2017). Fluorescence calibration method for single-particle aerosol fluorescence instruments. *<u>Atmos. Meas. Tech.</u>*, 10, 1755–1768. [[DOI](https://doi.org/10.5194/amt-10-1755-2017)]
 
@@ -43,7 +43,7 @@ author_profile: true
 [11] **Robinson, E.S.**; Onasch, T.B..; Worsnop, D.; Donahue, N.M.; (2017). Collection efficiency of a-pinene secondary organic aerosol particles explored via light-scattering single-particle aerosol mass spectrometry. *<u>Atmos. Meas. Tech.</u>*, 10, 1139–1154. [[DOI](https://doi.org/10.5194/amt-10-1139-2017)]
 
 <!-- 2016 -->
-**<center>2016**</center>
+<center>**2016**</center>
 
 [10] Saleh, R.; **Robinson, E.S.**; Ahern, A.T.; Donahue, N.M.; (2016). Evaporation rate of particles in the vaporizer of the Aerodyne aerosol mass spectrometer. *<u>Aerosol Sci. Tech.</u>*, 51:4, 501-508. [[DOI](https://doi.org/10.1080/02786826.2016.1271109)]
 
@@ -54,7 +54,7 @@ author_profile: true
 [7] **Robinson, E.S.**; Donahue, N.M.; Ahern, A.T.; Ye, Q.; Lipsky, E. (2016). Single-particle measurements of phase partitioning between primary and secondary organic aerosols. *<u>Faraday Disc.</u>*, 189, 31-49 . [[DOI](https://doi.org/10.1039/C5FD00214A)]
 
 <!-- 2015 -->
-**<center>2015**</center>
+<center>**2015**</center>
 
 [6] **Robinson, E.S.**; ;Donahue, N.M.; (2015). Uptake of semivolatile secondary organic aerosol formed from a-pinene into nonvolatile polyethylene glycol probe particles. *<u>Env. Sci. Tech.</u>*, 49, 16, 9724–9732. [[DOI](https://doi.org/10.1021/acs.est.5b01692)]
 
@@ -63,12 +63,12 @@ author_profile: true
 [4] Riva, M.; **Robinson, E.S.**; Perraudin, E.; Donahue, N.M.; Villenave, E. (2015). Photochemical aging of secondary organic aerosols generated from the photooxidation of polycyclic aromatic hydrocarbons in the gas-phase. *<u>Env. Sci. Tech.</u>*, 49, 9, 5407–5416. [[DOI](https://doi.org/10.1021/acs.est.5b00442)]
 
 <!-- 2014 -->
-**<center>2014**</center>
+<center>**2014**</center>
 
 [3] Saleh, R., **Robinson, E.S.**, Tkacik, D.; ... Robinson, A.L. (2014). Brownness of organics in aerosols from biomass burning linked to their black carbon content. *<u>Nature Geosci.</u>*, 7, 647–650. [[DOI](https://doi.org/10.1038/ngeo2220)]
 
 <!-- 2013 -->
-**<center>2013**</center>
+<center>**2013**</center>
 
 [2] **Robinson, E. S.**; Saleh, R.; Donahue, N.M. (2013). Organic Aerosol Mixing Observed by Single-Particle Mass Spectrometry. *<u>J. Phys. Chem. A</u>*, 117, 51, 13935–13945. [[DOI](https://doi.org/10.1021/jp405789t)]
 
