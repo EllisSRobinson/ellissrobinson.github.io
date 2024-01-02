@@ -9,7 +9,7 @@ I am hiring for two <b><i>funded</i></b> Ph.D. openings as I start my lab and re
 
 Upcoming Ph.D. projects will focus on urban and indoor air quality, with opportunities to work in the following areas:
 <ul>
-	<li>High-end aerosol and air quality instrumentation (Aerosol Mass Spectrometry, aerosol size distributions, and others) </li>
+	<li>Aerosol composition and air quality instrumentation (Aerosol Mass Spectrometry, aerosol size distributions, toxicity assays, others) </li>
 	<li>Mobile air pollution monitoring and spatial data analysis</li>
 	<li>Emissions source characterization</li>
 </ul>
