@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining [Chemical & Environmental Engineering at University of Arizona](https://chee.engineering.arizona.edu/) in Fall '24 as an Assistant Professor. Currently, I am a Research Engineer in [Peter DeCarlo's](https://decarlolab.com/) lab in the Environmental Health & Engineering department at Johns Hopkins University. Prior to JHU, I worked as a postdoc in the [Center for Atmospheric Particles Studies (CAPS)](https://particulate-matter.cmu.edu/) at Carnegie Mellon University in Pittsburgh, PA. CAPS is also where I did graduate school, working under the supervision of Neil Donahue in Chemical Engineering at CMU. Between my PhD and postdoc at CMU, I did a postdoc at the [NOAA Earth Science Research Laboratory](https://csl.noaa.gov/research/), in Boulder, CO.
+I will be joining [Chemical & Environmental Engineering at University of Arizona](https://chee.engineering.arizona.edu/) in Fall '24 as an Assistant Professor. I am looking to recruit two Ph.D. students to work on exciting projects in both indoor and urban air quality. Please contact me if you are interested!
+
+Currently, I am a Research Engineer in [Peter DeCarlo's](https://decarlolab.com/) lab in the Environmental Health & Engineering department at Johns Hopkins University. Prior to JHU, I worked as a postdoc in the [Center for Atmospheric Particles Studies (CAPS)](https://particulate-matter.cmu.edu/) at Carnegie Mellon University in Pittsburgh, PA. CAPS is also where I did graduate school, working under the supervision of Neil Donahue in Chemical Engineering at CMU. Between my PhD and postdoc at CMU, I did a postdoc at the [NOAA Earth Science Research Laboratory](https://csl.noaa.gov/research/), in Boulder, CO.
 
 Download CV .pdf [here](https://github.com/EllisSRobinson/ellissrobinson.github.io/files/RobinsonEllis_CV.pdf)
 
