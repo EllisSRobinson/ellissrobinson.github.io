@@ -12,7 +12,7 @@ Full CV (.pdf) [here](https://github.com/EllisSRobinson/ellissrobinson.github.io
 
 Current position
 ====== 
-* <b>Assistant professor</b>, , Chemical &amp; Environmental Engineering (core) and Hydrology &amp; Atmospheric Sciences (joint), <i>University of Arizona</i>, Fall 2024 - present
+* <b>Assistant professor</b>, Chemical &amp; Environmental Engineering (core) and Hydrology &amp; Atmospheric Sciences (joint), <i>University of Arizona</i>, Fall 2024 - present
 
 Education 
 ====== 
@@ -21,7 +21,7 @@ Education
 
 Research experience 
 ====== 
-* Research engineer, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, Johns Hopkins University, 2022 Winter - 2024 Summer
+* <b>Research engineer</b>, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, Johns Hopkins University, 2022 Winter - 2024 Summer
 * <b>Postdoctoral researcher</b>, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, <i>Johns Hopkins University</i>, 2020 Summer - 2022 Winter
 * <b>Postdoctoral researcher</b>, [CAPS](https://particulate-matter.cmu.edu/), Mechanical Engineering, <i>Carnegie Mellon University</i>, 2016 Summer - 2019 Spring
 * <b>Research scientist I</b>, <i>NOAA</i> [Earth System Research Laboratory](https://www.esrl.noaa.gov/), 2015 Winter - 2016 Summer
