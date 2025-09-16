@@ -7,7 +7,6 @@ author_profile: true
 
 Page (always) a work in progress...
 
-
 <!-- 2025 -->
 <center><b>2025</b></center>
 
@@ -133,3 +132,7 @@ Page (always) a work in progress...
 [1] **Robinson, E.S.**; Saleh, R.; Donahue, N.M. (2013). Organic Aerosol Mixing Observed by Single-Particle Mass Spectrometry. *<u>The Journal of Physical Chemistry A</u>*, 117, 13935–13945. [[DOI](https://doi.org/10.1021/jp405789t)]
 
 [0] Saleh, R.; Hennigan, C.J.; McMeeking, G.R.; Chuang, W.K.; **Robinson, E.S.**; Coe, H.; Donahue, N.M.; Robinson, A.L. (2013). Absorptivity of brown carbon in fresh and photo-chemically aged biomass-burning emissions. *<u>Atmospheric Chemistry and Physics</u>*, 13, 7683–7693. [[DOI](https://doi.org/10.5194/acp-13-7683-2013)]
+
+{% if author.googlescholar %} 
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> 
+{% endif %} 
