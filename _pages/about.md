@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Chemical & Environmental Engineering](https://chee.engineering.arizona.edu/) at University of Arizona. I am always looking to recruit students from undergraduate to Ph.D. to work on exciting projects in both indoor and outdoor air quality. Please contact me if you are interested!
+I am a new Assistant Professor in the [Department of Chemical & Environmental Engineering](https://chee.engineering.arizona.edu/) at University of Arizona, starting in Fall 2024. I am always looking to recruit motivated students from undergraduate to Ph.D. to work on exciting science and engineering projects in both indoor and outdoor air quality. Please contact me if you are interested!
 
-Previously, I was Research Engineer in [Peter DeCarlo's](https://decarlolab.com/) lab in the Environmental Health & Engineering department at Johns Hopkins University. Prior to JHU, I worked as a postdoc in the [Center for Atmospheric Particles Studies (CAPS)](https://particulate-matter.cmu.edu/) at Carnegie Mellon University in Pittsburgh, PA. CAPS is also where I did graduate school, working under the supervision of Neil Donahue in Chemical Engineering at CMU. Between my PhD and postdoc at CMU, I did a postdoc at the [NOAA Earth Science Research Laboratory](https://csl.noaa.gov/research/), in Boulder, CO.
+Current areas of research include:
+- Understanding ozone formation and exceedances in urban Arizona
+- Aerosol composition and sources, including dust, in Tucson
+- Atmospheric transformations, sources, and impacts of ethylene oxide and other HAPs
+- Mobile monitoring of urban air pollution
+- Indoor air quality intervention assessment
+
+Previously, I was Research Engineer in [Peter DeCarlo's](https://decarlolab.com/) lab in the Environmental Health & Engineering department at Johns Hopkins University. Prior to JHU, I worked as a postdoc in the [Center for Atmospheric Particles Studies (CAPS)](https://particulate-matter.cmu.edu/) at Carnegie Mellon University in Pittsburgh, PA on the [EPA CACES](https://www.caces.us) project with Albert Presto, Allen Robinson, and others. CAPS is also where I did graduate school, working under the supervision of Neil Donahue in Chemical Engineering at CMU. Between my PhD and postdoc at CMU, I did a postdoc at the [NOAA Earth Science Research Laboratory](https://csl.noaa.gov/research/), in Boulder, CO.
 
 Download CV (.pdf) [here](https://github.com/EllisSRobinson/ellissrobinson.github.io/files/CV_ESR_2025Full.pdf)
 
