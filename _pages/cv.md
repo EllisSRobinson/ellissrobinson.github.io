@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full CV (.pdf) [here](https://github.com/EllisSRobinson/ellissrobinson.github.io/blob/bec984efc4b34b5fa4d2079f4c98971c9a49ff73/files/CV_ESR_2025Full.pdf)
+Full CV (.pdf) [here](https://ellissrobinson.github.io/files/CV_ESR_2025Full.pdf)
 
 Current position
 ====== 
