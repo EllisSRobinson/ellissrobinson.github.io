@@ -8,19 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+Full CV (.pdf) [here](https://github.com/EllisSRobinson/ellissrobinson.github.io/files/CV_ESR_2025Full.pdf)
 
 Current position
 ====== 
-* <b>Research engineer</b>, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, <i>Johns Hopkins University</i>, 2022 Winter - present
+* <b>Assistant professor</b>, , Chemical &amp; Environmental Engineering (core) and Hydrology &amp; Atmospheric Sciences (joint), <i>University of Arizona</i>, Fall 2024 - present
 
 Education 
 ====== 
-* Ph.D in Chemical Engineering, <i>Carnegie Mellon University</i>, 2014 Fall  
+* Ph.D in Chemical Engineering, <i>Carnegie Mellon University</i>, 2014 Fall (Advisor: Neil M. Donahue)  
 * B.S. in Chemical &amp; Biomolecular Engineering, <i>The Ohio State University</i>, 2009 Fall
 
 Research experience 
 ====== 
-<!--* Research engineer, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, Johns Hopkins University, 2022 Winter - present-->
+* Research engineer, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, Johns Hopkins University, 2022 Winter - 2024 Summer
 * <b>Postdoctoral researcher</b>, [Peter DeCarlo Lab](https://decarlolab.com/), Environmental Health &amp; Engineering, <i>Johns Hopkins University</i>, 2020 Summer - 2022 Winter
 * <b>Postdoctoral researcher</b>, [CAPS](https://particulate-matter.cmu.edu/), Mechanical Engineering, <i>Carnegie Mellon University</i>, 2016 Summer - 2019 Spring
 * <b>Research scientist I</b>, <i>NOAA</i> [Earth System Research Laboratory](https://www.esrl.noaa.gov/), 2015 Winter - 2016 Summer
