@@ -17,4 +17,4 @@ Upcoming Ph.D. projects will focus on urban and indoor air quality, with opportu
 </ul>
 These projects will be interdisciplinary and highly collaborative with other researchers at University of Arizona and beyond.
 
-Undergraduate students at the University of Arizona who are looking for real-world experience doing science are also highly encouraged to get in touch.
+<b><i>Undergraduate students at the University of Arizona who are looking for real-world research experience are always highly encouraged to get in touch!</b></i> I have a list of ready-to-go projects that undergraduates can work on, whether you are interested in gaining hands-on laboratory or data analysis experience.
