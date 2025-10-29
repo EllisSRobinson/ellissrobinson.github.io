@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a new Assistant Professor in the [Department of Chemical & Environmental Engineering](https://chee.engineering.arizona.edu/) at University of Arizona, starting in Fall 2024. I study air pollution-how it gets made, where it goes, who breathes it, and what happens to it.
+I am an Assistant Professor in the [Department of Chemical & Environmental Engineering](https://chee.engineering.arizona.edu/) at University of Arizona. I study air pollution-how it gets made, where it goes, who breathes it, and what happens to it.
 
 Some current active research projects include:
 - Understanding ozone formation and exceedances in urban Arizona
