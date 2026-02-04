@@ -21,9 +21,11 @@ Page (always) a work in progress... (last update: February 4, 2026)
 
 <center><b>2025</b></center>
 
-[47] Ajayi, T.; Mirrezaei, M.A.; Arellano, A.F.; **Robinson, E.S.**; Sorooshian, A. (2025). A long-term (2001–2022) examination of surface ozone concentrations in Tucson, Arizona. *<u>Environmental Science: Atmospheres</u>*. [[DOI](https://doi.org/10.1039/d5ea00072f)]
+[48] Ajayi, T.; Mirrezaei, M.A.; Arellano, A.F.; **Robinson, E.S.**; Sorooshian, A. (2025). A long-term (2001–2022) examination of surface ozone concentrations in Tucson, Arizona. *<u>Environmental Science: Atmospheres</u>*. [[DOI](https://doi.org/10.1039/d5ea00072f)]
 
-[46] Chiger, A.A.; Gigot, C.; **Robinson, E.S.**; Tehrani, M.W.; Claflin, M.; Fortner, E.; et al. (2025). Improving Methodologies for Cumulative Risk Assessment: A Case Study of Noncarcinogenic Health Risks from Volatile Organic Compounds in Fenceline Communities in Southeastern Pennsylvania. *<u>Environmental Health Perspectives</u>*, 133, 057004. [[DOI](https://doi.org/10.1289/ehp14696)]
+[47] Chiger, A.A.; Gigot, C.; **Robinson, E.S.**; Tehrani, M.W.; Claflin, M.; Fortner, E.; et al. (2025). Improving Methodologies for Cumulative Risk Assessment: A Case Study of Noncarcinogenic Health Risks from Volatile Organic Compounds in Fenceline Communities in Southeastern Pennsylvania. *<u>Environmental Health Perspectives</u>*, 133, 057004. [[DOI](https://doi.org/10.1289/ehp14696)]
+
+[46] Forshee, L.; Holen, A. L.; Wu, J.; Carvalho, K. C. d.; Selimovic, V.; **Robinson, E. S.**; et al. (2025). Cooking Oil Mixed with Residential Wood Burning Particles: A Wintertime Indoor Air Quality Study. *<u>ACS ES&T Air</u>*, 2, 2799–2813. [[DOI](https://doi.org/10.1021/acsestair.5c00156)]
 
 [45] Parakkat, L.; Hilario, M.R.A.; Mirrezaei, M.A.; **Robinson, E.S.**; Arellano, A.; Sorooshian, A. (2025). Ozone concentrations and influential variables during heat waves over two desert cities in the Southwest U.S. *<u>Environmental Research Communications</u>*, 7, 125008. [[DOI](https://doi.org/10.1088/2515-7620/ae238d)]
 
