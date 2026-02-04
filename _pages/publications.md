@@ -10,17 +10,6 @@ Page (always) a work in progress... (last update: {{ "now" | date: "%B %d, %Y" }
 <!-- 2025 -->
 <center><b>2025</b></center>
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-Page (always) a work in progress... (last update: February 4, 2026)
-
-<center><b>2025</b></center>
-
 [48] Ajayi, T.; Mirrezaei, M.A.; Arellano, A.F.; **Robinson, E.S.**; Sorooshian, A. (2025). A long-term (2001–2022) examination of surface ozone concentrations in Tucson, Arizona. *<u>Environmental Science: Atmospheres</u>*. [[DOI](https://doi.org/10.1039/d5ea00072f)]
 
 [47] Chiger, A.A.; Gigot, C.; **Robinson, E.S.**; Tehrani, M.W.; Claflin, M.; Fortner, E.; et al. (2025). Improving Methodologies for Cumulative Risk Assessment: A Case Study of Noncarcinogenic Health Risks from Volatile Organic Compounds in Fenceline Communities in Southeastern Pennsylvania. *<u>Environmental Health Perspectives</u>*, 133, 057004. [[DOI](https://doi.org/10.1289/ehp14696)]
