@@ -5,18 +5,39 @@ permalink: /publications/
 author_profile: true
 ---
 
-Page (always) a work in progress...
+Page (always) a work in progress... (last update: {{ "now" | date: "%B %d, %Y" }})
 
 <!-- 2025 -->
 <center><b>2025</b></center>
 
-[42] Ketcherside, D.T.; Yokelson, R.J.; Selimovic, V.; **Robinson, E.S.**; Cesler-Maloney, M.; Holen, A.L.; Wu, J.; Temime-Roussel, B.; Ijaz, A.; Kuhn, J.; Moon, A.; Pappaccogli, G.; Carvalho, K.C.d.; Decesari, S.; Alexander, B.; Williams, B.J.; D’Anna, B.; Stutz, J.; Pratt, K.A.; DeCarlo, P.F.; Mao, J.; Simpson, W.R.; Hopke, P.K.; Hu, L. (2025). Wintertime Abundance and Sources of Key Trace Gas and Particle Species in Fairbanks, Alaska. *<u>Journal of Geophysical Research: Atmospheres</u>*, 130(15). [[DOI](https://doi.org/10.1029/2025JD043677)]
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-<!-- [41] **Robinson, E.S.**; Dhammapala, R. (2025). Ethylene oxide ambient concentration trends across the United States. *<u>ACS ES&T Air</u>*. Accepted. -->
-<!--  -->
-<!-- [40] **Robinson, E.S.**; Many others; Decarlo, P.F. (2025). Total cancer risk estimates from measured concentrations of volatile organic compounds in industrialized southeastern Louisiana. *<u>Proceedings of the National Academy of Sciences</u>*. Accepted. -->
+Page (always) a work in progress... (last update: February 4, 2026)
 
-[39] Tian, X.; Cummings, B.E.; Waring, M.S.; Touchie, M.F.; **Robinson, E.S.**; Nault, B.A.; DeCarlo, P.F. (2025). Predicting indoor concentrations and chemical composition of outdoor-originated particulate matter with a CONTAM building model. *<u>Aerosol Science and Technology</u>*, 59(10), 1166–1179. [[DOI](https://doi.org/10.1080/02786826.2025.2521337)]
+<center><b>2025</b></center>
+
+[47] Ajayi, T.; Mirrezaei, M.A.; Arellano, A.F.; **Robinson, E.S.**; Sorooshian, A. (2025). A long-term (2001–2022) examination of surface ozone concentrations in Tucson, Arizona. *<u>Environmental Science: Atmospheres</u>*. [[DOI](https://doi.org/10.1039/d5ea00072f)]
+
+[46] Chiger, A.A.; Gigot, C.; **Robinson, E.S.**; Tehrani, M.W.; Claflin, M.; Fortner, E.; et al. (2025). Improving Methodologies for Cumulative Risk Assessment: A Case Study of Noncarcinogenic Health Risks from Volatile Organic Compounds in Fenceline Communities in Southeastern Pennsylvania. *<u>Environmental Health Perspectives</u>*, 133, 057004. [[DOI](https://doi.org/10.1289/ehp14696)]
+
+[45] Parakkat, L.; Hilario, M.R.A.; Mirrezaei, M.A.; **Robinson, E.S.**; Arellano, A.; Sorooshian, A. (2025). Ozone concentrations and influential variables during heat waves over two desert cities in the Southwest U.S. *<u>Environmental Research Communications</u>*, 7, 125008. [[DOI](https://doi.org/10.1088/2515-7620/ae238d)]
+
+[44] **Robinson, E.S.**; Dhammapala, R. (2025). Analysis of Ambient Ethylene Oxide Mixing Ratios in the United States. *<u>ACS ES&T Air</u>*. [[DOI](https://doi.org/10.1021/acsestair.5c00186)]
+
+[43] **Robinson, E.S.**; Yassine, A.; Agarwal, S.; Tehrani, M.W.; Lupolt, S.N.; Chiger, A.A.; et al. (2025). Total cancer risk estimates from measured concentrations of volatile organic compounds in industrialized southeastern Louisiana. *<u>Proceedings of the National Academy of Sciences</u>*, 122, e2504770122. [[DOI](https://doi.org/10.1073/pnas.2504770122)]
+
+[42] Fraser, M.P.; Arellano, A.F.; Herckes, P.; **Robinson, E.S.**; Sorooshian, A. (2025). Feeling the Heat: Ground Level Ozone Research (GLOR) Ramps up in Maricopa County. *<u>EM Magazine</u>*.
+
+[41] Holen, A.L.; Wu, J.; Forshee, L.; Dingilian, K.K.; Selimovic, V.; Battaglia, M.A.; et al. (2025). Quantifying Contributions of Sulfate, Hydroxymethanesulfonate, and Additional S(IV) Compounds to Wintertime Aerosol Particles. *<u>ACS ES&T Air</u>*. [[DOI](https://doi.org/10.1021/acsestair.5c00232)]
+
+[40] Ketcherside, D.T.; Yokelson, R.J.; Selimovic, V.; **Robinson, E.S.**; Cesler-Maloney, M.; Holen, A.L.; et al. (2025). Wintertime Abundance and Sources of Key Trace Gas and Particle Species in Fairbanks, Alaska. *<u>Journal of Geophysical Research: Atmospheres</u>*, 130. [[DOI](https://doi.org/10.1029/2025jd043677)]
+
+[39] Tian, X.; Cummings, B.E.; Waring, M.S.; Touchie, M.F.; **Robinson, E.S.**; Nault, B.A.; DeCarlo, P.F. (2025). Predicting indoor concentrations and chemical composition of outdoor-originated particulate matter with a CONTAM building model. *<u>Aerosol Science and Technology</u>*, 59, 1166–1179. [[DOI](https://doi.org/10.1080/02786826.2025.2521337)]
 
 
 <!-- 2024 -->
