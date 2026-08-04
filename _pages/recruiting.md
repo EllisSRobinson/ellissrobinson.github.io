@@ -7,7 +7,7 @@ author_profile: true
 
 I am always interested in working with motivated students at all levels. 
 
-I plan on hiring for <b><i>one funded Ph.D. opening starting Fall 2026</i></b>. If you are interested in developing measurement and data science skills in applied air pollution research (with a strong connection to human health impacts), and want to earn a Ph.D. in Environmental Engineering, Chemical Engineering, or Atmospheric Sciences, please get in touch!
+If you are interested in developing measurement and data science skills in applied air pollution research (with a strong connection to human health impacts), and want to earn a Ph.D. in Environmental Engineering, Chemical Engineering, or Atmospheric Sciences, please get in touch!
 
 Upcoming Ph.D. projects will focus on urban and indoor air quality, with opportunities to work in the following areas:
 <ul>
@@ -17,4 +17,4 @@ Upcoming Ph.D. projects will focus on urban and indoor air quality, with opportu
 </ul>
 These projects will be interdisciplinary and highly collaborative with other researchers at University of Arizona and beyond.
 
-<b><i>Undergraduate students at the University of Arizona who are looking for real-world research experience are always highly encouraged to get in touch!</b></i> I have a list of ready-to-go projects that undergraduates can work on, whether you are interested in gaining hands-on laboratory or data analysis experience.
+<b><i>Undergraduate students at the University of Arizona who are looking for real-world research experience are always highly encouraged to get in touch!</i></b> I have a list of ready-to-go projects that undergraduates can work on, whether you are interested in gaining hands-on laboratory or data analysis experience.
